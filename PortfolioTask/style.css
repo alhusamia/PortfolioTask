@@ -1,16 +1,23 @@
 h1{
-    color: maroon;
+    color: rgb(86, 36, 144);
     text-align: center;
     border: solid,black,3px;
     border-radius: 10px;
 }
 h3{
-  color:green;
+  color:rgb(86, 36, 144);
   text-align: center;
 
 }
 ul{
+  color: rgb(86, 36, 144);
  list-style-type: none;
  text-align:center;
+
+}
+body{
+  background-image: url("nature.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
